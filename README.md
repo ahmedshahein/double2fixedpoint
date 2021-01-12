@@ -28,4 +28,4 @@ The output is in struct format and has the following fields:
                'of_flag', Flag indicating that overflow has been occured  
 The usage is as follow:  
 x_fxp = double2fixedpoint(x, S, WL, FL, OF)  
-It is developed and tested on Ocave 5.2.0  
+It is developed and tested on Octave 5.2.0  
